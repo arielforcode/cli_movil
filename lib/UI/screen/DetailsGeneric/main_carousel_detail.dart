@@ -61,7 +61,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
             child: Padding(
               padding: const EdgeInsets.only(bottom: 20),
               child: Text(
-                "Price \$${widget.data.price}",
+                "Alumnos Inscritos \$${widget.data.price}",
                 style: const TextStyle(
                     color: Colors.black54,
                     fontSize: 24,
